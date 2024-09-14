@@ -1,0 +1,23 @@
+/* src/ParallaxSection.css */
+.parallax-container {
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .content-section {
+    padding: 50px;
+    background: #f4f4f4;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
